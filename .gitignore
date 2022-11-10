@@ -1,0 +1,8 @@
+/bin/ktlint
+/bin/*.log
+/bin/*.sarif
+/.idea/
+/#*#
+*~
+/README.html
+/README.pdf
